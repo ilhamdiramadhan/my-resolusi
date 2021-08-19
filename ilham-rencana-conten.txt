@@ -4,6 +4,7 @@ Rencana conten ilham
   > DNS Server
 - Windows Server
   > SSH Server
+  > FTP Server
 - Kali Linux
 - Interview
 - Vlog
