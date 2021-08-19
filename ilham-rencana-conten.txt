@@ -1,5 +1,7 @@
 Rencana conten ilham
 - Debian Server
+  > Web Server
+  > DNS Server
 - Windows Server
 - Interview
 - Vlog
