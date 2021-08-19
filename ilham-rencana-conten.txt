@@ -3,6 +3,8 @@ Rencana conten ilham
   > Web Server
   > DNS Server
 - Windows Server
+  > SSH Server
 - Kali Linux
 - Interview
 - Vlog
+- Ubuntu
